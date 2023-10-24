@@ -1,11 +1,22 @@
 ---
+title: AI at Work
+description: "AI at Work: Unleashing Your Personal Assistant's Hidden Potential for Enhanced Workplace Productivity"
+theme: chris
+class: invert
+_class:
+  - invert
+  - lead
+footer: AI at Work | Chris Chua | 31 Oct 2023
+_footer: ""
+paginate: true
+_paginate: false
 marp: true
-theme: custom-default
-footer: 'https://example.com'
 ---
 
-# My Presentation
-![bg right](https://picsum.photos/800/600)
+# AI at Work
+
+Unleashing Your Personal Assistant's Hidden Potential for Enhanced Workplace Productivity
+Chris Chua
 
 ---
 
