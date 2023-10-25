@@ -5,7 +5,7 @@
 section {
   background-color: #fff;
   color: #000;
-  background-image: url('images/ERCI_Logo.png');
+  background-image: url('');
   background-repeat: no-repeat;
   background-position: right 40px top 40px;
   background-size: 8%;
@@ -25,7 +25,7 @@ section::after {
 section.invert {
   background-color: #003359;
   color: #fff;
-  background-image: url('images/ERCI_Logo_white.png');
+  background-image: url('');
 }
 
 section.lead.invert {
@@ -38,7 +38,8 @@ section.invert::after {
   color: #fff;
 }
 
-section.invert a {
+section.invert a,
+section.invert quote {
   color: #e37222;
 }
 

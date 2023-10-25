@@ -16,7 +16,7 @@ marp: true
 # The AI Advantage
 
 Boosting Efficiency and Productivity in the Workplace
-
+  
 Chris Chua
 
 ---
@@ -55,6 +55,7 @@ comment that will show in notes -->
 ---
 
 ![bg opacity](https://picsum.photos/800/600?image=53)
+
 ## Slide 5
 
 <div class="columns">
@@ -80,15 +81,15 @@ comment that will show in notes -->
 
 ## Slide 6
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+<i class="fa-brands fa-twitter"></i> Twitter:
+<i class="fa-brands fa-mastodon"></i> Mastodon:
+<i class="fa-brands fa-linkedin"></i> LinkedIn:
+<i class="fa fa-window-maximize"></i> Blog:
+<i class="fa-brands fa-github"></i> GitHub:
 
 ---
 
-# <!--fit--> Large Text
+## <!--fit--> Large Text
 
 ---
 
@@ -98,7 +99,7 @@ comment that will show in notes -->
   mermaid.initialize({ startOnLoad: true });
 </script>
 
-# Mermaid
+## Mermaid
 
 <div class="mermaid">
 graph TD;
