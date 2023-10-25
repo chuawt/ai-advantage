@@ -1,32 +1,33 @@
 ---
-title: AI at Work
-description: "AI at Work: Unleashing Your Personal Assistant's Hidden Potential for Enhanced Workplace Productivity"
+title: The AI Advantage
+description: "The AI Advantage: Boosting Efficiency and Productivity in the Workplace"
 theme: chris
 class: invert
 _class:
   - invert
   - lead
-footer: AI at Work | Chris Chua | 31 Oct 2023
+footer: The AI Advantage | Chris Chua | 31 Oct 2023
 _footer: ""
 paginate: true
 _paginate: false
 marp: true
 ---
 
-# AI at Work
+# The AI Advantage
 
-Unleashing Your Personal Assistant's Hidden Potential for Enhanced Workplace Productivity
+Boosting Efficiency and Productivity in the Workplace
+
 Chris Chua
 
 ---
 
-<!-- Speaker Notes -->
-## Slide 1
+## Video Avatar
 
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
+- [Taiwan news anchor - Ni Zhen](https://share.zight.com/z8udkgjk)
+- [South Korea AI-based avatar - Jae In](https://share.zight.com/JrumGB0O)
+- [China news anchor](https://share.zight.com/P8uD6qLZ)
+
+  Verdict: Room for improvement
 
 ---
 
