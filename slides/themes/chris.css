@@ -40,6 +40,7 @@ section.invert::after {
 
 section.invert a,
 section.invert blockquote::before,
+section.invert blockquote,
 section.invert blockquote::after {
   color: #e37222;
 }
