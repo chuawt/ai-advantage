@@ -39,7 +39,8 @@ section.invert::after {
 }
 
 section.invert a,
-section.invert quote {
+section.invert blockquote::before,
+section.invert blockquote::after {
   color: #e37222;
 }
 
