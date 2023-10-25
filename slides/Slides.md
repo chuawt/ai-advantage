@@ -17,17 +17,19 @@ marp: true
 
 Boosting Efficiency and Productivity in the Workplace
 
+&nbsp;
 Chris Chua
 
 ---
 
 ## Video Avatar
+<!-- Verdict: promising but still needs more work -->
 
-- [Taiwan news anchor - Ni Zhen](https://share.zight.com/z8udkgjk)
-- [South Korea AI-based avatar - Jae In](https://share.zight.com/JrumGB0O)
+- [Taiwan news anchor](https://share.zight.com/z8udkgjk)
+- [South Korea AI-based avatar - Zae In](https://share.zight.com/JrumGB0O)
 - [China news anchor](https://share.zight.com/P8uD6qLZ)
 
-  Verdict: Room for improvement
+![bg right:50%](img/ai-anchor.jpg)
 
 ---
 
