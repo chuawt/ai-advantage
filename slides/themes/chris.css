@@ -38,15 +38,20 @@ section.invert::after {
   color: #fff;
 }
 
-section.invert a,
-section.invert blockquote::before,
-section.invert blockquote,
-section.invert blockquote::after {
+section.invert a {
   color: #e37222;
+}
+
+section.invert blockquote {
+  border-left: 5px solid #e37222;
 }
 
 /* Add "Page" prefix and total page number */
 section::after {
   content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
-  font-size: 16px;
+  font-size: 14px;
+}
+
+footer {
+  font-size: 14px;
 }

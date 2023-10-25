@@ -16,7 +16,7 @@ marp: true
 # The AI Advantage
 
 Boosting Efficiency and Productivity in the Workplace
-  
+
 Chris Chua
 
 ---
