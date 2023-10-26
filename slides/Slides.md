@@ -1,4 +1,5 @@
 ---
+marp: true
 title: The AI Advantage
 description: "The AI Advantage: Boosting Efficiency and Productivity in the Workplace"
 theme: chris
@@ -10,26 +11,47 @@ footer: The AI Advantage | Chris Chua | 31 Oct 2023
 _footer: ""
 paginate: true
 _paginate: false
-marp: true
+style: |
+    section{
+      justify-content: flex-start;
+    }
 ---
 
-# The AI Advantage
-
-Boosting Efficiency and Productivity in the Workplace
+# The AI Advantage: Boosting Efficiency and Productivity in the Workplace
 
 &nbsp;
-Chris Chua
+by Chris Chua
+
+![bg brightness:0.6](img/robot-and-human.jpg)
 
 ---
 
-## Video Avatar
+## What is AI?
+
+> AI stands for Artificial Intelligence, the science and engineering of creating intelligent machines and systems.
+
+AI can perform tasks that normally require human intelligence, such as understanding natural language and making decisions. Just like how you learn new things every day, AI can also learn and become smarter!
+
+![bg right](img/ai-robots.jpg)
+
+---
+
+## AI Avatar
 <!-- Verdict: promising but still needs more work -->
 
 - [Taiwan news anchor](https://share.zight.com/z8udkgjk)
 - [South Korea AI-based avatar - Zae In](https://share.zight.com/JrumGB0O)
 - [China news anchor](https://share.zight.com/P8uD6qLZ)
 
-![bg right:50%](img/ai-anchor.jpg)
+![bg left](img/ai-anchor.jpg)
+
+---
+
+## Credits
+
+The AI Advantage [Cash Macanaya | Unsplash](https://unsplash.com/photos/two-hands-reaching-for-a-flying-object-in-the-sky-X9Cemmq4YjM)
+What is AI? [Xu Haiwei | Unsplash](https://unsplash.com/photos/stainless-steel-robot-toy-in-close-up-photography-_3KdlCgHAn0)
+AI Avatar [The Guardian](https://www.theguardian.com/tv-and-radio/2023/oct/20/here-is-the-news-you-cant-stop-us-ai-anchor-zae-in-grants-us-an-interview)
 
 ---
 
@@ -38,6 +60,11 @@ Chris Chua
 comment that will show in notes -->
 
 ![Image](https://picsum.photos/800/600)
+
+<!-- 
+Some notes here that might be useful.
+-->
+
 
 ---
 
