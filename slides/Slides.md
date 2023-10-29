@@ -27,7 +27,59 @@ Chris Chua
 
 ---
 
+## The Impact of AI in the Workplace
+
+Why AI matters
+
+---
+
+## Disruption and Fear of Loss of Jobs
+
+* Gartner predicts that by 2025, gen AI will be a workforce partner for 90% of companies worldwide.
+— *[Gartner, October 2023 press release](https://www.gartner.com/en/newsroom/press-releases/2023-10-16-gartner-says-cios-must-prioritize-their-ai-ambition-and-ai-ready-scenarios-for-next-12-24-months)*
+
+* Generative AI could lead to "significant disruption" in the labor market and expose 300 million full-time jobs across the globe — many of them white-collar roles — to automation.
+— *[Goldman Sachs, March 2023 report](https://www.businessinsider.com/generative-ai-chatpgt-300-million-full-time-jobs-goldman-sachs-2023-3)*
+
+* 22% of US workers were worried their jobs would become obsolete due to technology.
+— *[Gallup, August 2023 survey](https://www.businessinsider.com/us-workers-worry-tech-ai-may-replace-jobs-gallup-poll-2023-9)*
+
+---
+
+## AI Anxious
+
+* Only 58% of US adults have heard of ChatGPT.
+Of this group, only 12% said they had used the technology to help complete work tasks.
+— *[Pew Research, March 2023 survey](https://www.businessinsider.com/chatgpt-potential-users-young-educated-and-rich-pew-survey-2023-5)*
+
+* Nearly half of employees are worried that they don't know enough about AI.
+And 56% said they did not know how to use AI at work.
+— *[LinkedIn, August 2023 survey](https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9)*
+
+---
+
+## Productivity Boost
+
+* 55% of respondents say that the current output of generative AI tools they're using matches the quality of an experienced or expert human worker.
+— *[The Conference Board, August 2023 workforce survey](https://www.prnewswire.com/news-releases/survey-majority-of-us-workers-are-already-using-generative-ai-toolsbut-company-policies-trail-behind-301925743.html)*
+
+* 70% of respondents said they would like to delegate as much work as possible to AI to lessen their current workload.
+— *[Microsoft, May 2023 Work Trend Index Annual Report](https://www.microsoft.com/en-us/worklab/work-trend-index/will-ai-fix-work)*
+
+* When workers had access to ChatGPT, the time it took for them to complete a series of work-related writing tasks decreased by 40%, and the quality of their output rose by 18%.
+— *[MIT, July 2023 study](https://news.mit.edu/2023/study-finds-chatgpt-boosts-worker-productivity-writing-0714)*
+
+---
+
+## "AI won't take your job. It's somebody using AI that will take your job." 
+
+— *[Richard Baldwin, an economist and professor at the Geneva Graduate Institute in Switzerland during a panel at the 2023 World Economic Forum's Growth Summit.](https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5)*
+
+---
+
 ## AI and Its Applications
+
+What is AI and what is it used for
 
 ---
 
@@ -130,6 +182,12 @@ E.g. facial recognition, optical character recognition (OCR), beauty filters app
 
 ---
 
+## Fancy a Painting?
+
+![height:550px](https://p225.p0.n0.cdn.getcloudapp.com/items/7KuX6Am1/41ce01e7-6f49-4ba1-afb9-4e1329933afb.jpeg?source=viewer&v=0fb2b1213d8ae1c4ab77611ebb4b8d4e)
+
+---
+
 ## AI Avatar
 <!-- Verdict: promising but still needs more work -->
 
@@ -141,49 +199,34 @@ E.g. facial recognition, optical character recognition (OCR), beauty filters app
 
 ---
 
-## The Impact of AI in the Workplace
+## Leveraging AI
+
+How to Use AI to Your Advantage
 
 ---
 
-## Disruption and Fear of Loss of Jobs
+## Some Users of AI at Work
 
-* Gartner predicts that by 2025, gen AI will be a workforce partner for 90% of companies worldwide.
-— *[Gartner, October 2023 press release](https://www.gartner.com/en/newsroom/press-releases/2023-10-16-gartner-says-cios-must-prioritize-their-ai-ambition-and-ai-ready-scenarios-for-next-12-24-months)*
-
-* Generative AI could lead to "significant disruption" in the labor market and expose 300 million full-time jobs across the globe — many of them white-collar roles — to automation.
-— *[Goldman Sachs, March 2023 report](https://www.businessinsider.com/generative-ai-chatpgt-300-million-full-time-jobs-goldman-sachs-2023-3)*
-
-* 22% of US workers were worried their jobs would become obsolete due to technology.
-— *[Gallup, August 2023 survey](https://www.businessinsider.com/us-workers-worry-tech-ai-may-replace-jobs-gallup-poll-2023-9)*
+* Use it as a Google alternative for research
 
 ---
 
-## AI Anxious
+## As a Google Alternative
 
-* Only 58% of US adults have heard of ChatGPT.
-Of this group, only 12% said they had used the technology to help complete work tasks.
-— *[Pew Research, March 2023 survey](https://www.businessinsider.com/chatgpt-potential-users-young-educated-and-rich-pew-survey-2023-5)*
-
-* Nearly half of employees are worried that they don't know enough about AI.
-And 56% said they did not know how to use AI at work.
-— *[LinkedIn, August 2023 survey](https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9)*
+* No more clicking and reading so many search results
+* Able to compile information from multiple webpages
+* Avoid the bombardment of advertisements
+* AI can simplify the explanation if you ask it to
 
 ---
 
-## Productivity Boost
+## Dangers of AI
 
-* 55% of respondents say that the current output of generative AI tools they're using matches the quality of an experienced or expert human worker.
-— *[The Conference Board, August 2023 workforce survey](https://www.prnewswire.com/news-releases/survey-majority-of-us-workers-are-already-using-generative-ai-toolsbut-company-policies-trail-behind-301925743.html)*
-
-* 70% of respondents said they would like to delegate as much work as possible to AI to lessen their current workload.
-— *[Microsoft, May 2023 Work Trend Index Annual Report](https://www.microsoft.com/en-us/worklab/work-trend-index/will-ai-fix-work)*
-
-* When workers had access to ChatGPT, the time it took for them to complete a series of work-related writing tasks decreased by 40%, and the quality of their output rose by 18%.
-— *[MIT, July 2023 study](https://news.mit.edu/2023/study-finds-chatgpt-boosts-worker-productivity-writing-0714)*
+Using AI safely
 
 ---
 
-## Credits
+## Credits (I)
 
 <!-- The AI Advantage [Cash Macanaya | Unsplash](https://unsplash.com/photos/two-hands-reaching-for-a-flying-object-in-the-sky-X9Cemmq4YjM)
 -->
@@ -198,7 +241,13 @@ And 56% said they did not know how to use AI at work.
 * Computer Vision [美颜相机 by Meitu](https://meiyan.meipai.com/index.html)
 * Live Translation Using Phone Camera [G2](https://learn.g2.com/google-translates-instant-camera)
 * Generative AI [Levart_Photographer | Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-buttons-on-it-drwpcjkvxuU)
+
+---
+
+## Credits (II)
+
 * Key Generative AI Applications [Turing](https://www.turing.com/resources/generative-ai-applications)
+* Fancy a Painting? [The New York Times](https://www.nytimes.com/2018/10/25/arts/design/ai-art-sold-christies.html)
 * AI Avatar [The Guardian](https://www.theguardian.com/tv-and-radio/2023/oct/20/here-is-the-news-you-cant-stop-us-ai-anchor-zae-in-grants-us-an-interview)
 
 ---
