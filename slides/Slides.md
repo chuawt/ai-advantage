@@ -418,14 +418,14 @@ How to talk to an AI model
 
 ## How to create a perfect ChatGPT prompt
 
-1. Start with an action word
-2. Provide context
-3. Assume an Identity / Assign a Role
-4. Use quotation marks to emphasize
-5. Be specific (give clear and specific instructions)
-6. Give examples
-7. State the output format (style, length, language, tone)
-8. Refine the response
+* Start with an action word
+* Provide context
+* Assume an Identity / Assign a Role
+* Use quotation marks to emphasize
+* Be specific (give clear and specific instructions)
+* Give examples
+* State the output format (style, length, language, tone)
+* Refine the response
 
 *[Taken from: Writesonic (2023). How to write the perfect ChatGPT prompt and become a ChatGPT expert](https://writesonic.com/blog/how-to-write-chatgpt-prompts/)*
 
@@ -447,7 +447,7 @@ How to talk to an AI model
 2. Mummy: the story must contain a lesson.
 3. Daddy: best if her friend is telling her a story.
 
-[👉 The End Product](https://share.zight.com/rRumQPmy)
+[👉 See the End Product](https://share.zight.com/rRumQPmy)
 
 ---
 
