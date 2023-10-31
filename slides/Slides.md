@@ -7,7 +7,7 @@ class: invert
 _class:
   - invert
   - lead
-footer: The AI Advantage | Chris Chua | 31 Oct 2023
+footer: The AI Advantage / Chris Chua / 31 Oct 2023
 _footer: ""
 paginate: true
 _paginate: false
@@ -419,13 +419,13 @@ How to talk to an AI model
 ## How to create a perfect ChatGPT prompt
 
 1. Start with an action word
-1. Provide context
-1. Assume an Identity / Assign a Role
-1. Use quotation marks to emphasize
-1. Be specific (give clear and specific instructions)
-1. Give examples
-1. State the output format (style, length, language, tone)
-1. Refine the response
+2. Provide context
+3. Assume an Identity / Assign a Role
+4. Use quotation marks to emphasize
+5. Be specific (give clear and specific instructions)
+6. Give examples
+7. State the output format (style, length, language, tone)
+8. Refine the response
 
 *[Taken from: Writesonic (2023). How to write the perfect ChatGPT prompt and become a ChatGPT expert](https://writesonic.com/blog/how-to-write-chatgpt-prompts/)*
 
@@ -438,6 +438,16 @@ How to talk to an AI model
 * Artificial intelligence is not a replacement for humans. It’s about amplifying human potential. — *Amir Husain, CEO of SparkCognition*
 
 * Learning is a lifelong journey. If you stop learning, you risk becoming obsolete. — *John C. Maxwell, bestselling author, speaker, and leadership expert*
+
+---
+
+## A Story for My Daughter
+
+1. Daughter: the story must be "rabbit plays in the sand".
+2. Mummy: the story must contain a lesson.
+3. Daddy: best if her friend is telling her a story.
+
+[👉 The End Product](https://share.zight.com/rRumQPmy)
 
 ---
 
