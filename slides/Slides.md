@@ -461,7 +461,7 @@ Open-floor discussion
 
 ## <!-- fit --> Thank You
 
-![height:300px](img/qr_code_slides.png)
+![height:300px](img/qr_code.png)
 
 ---
 
