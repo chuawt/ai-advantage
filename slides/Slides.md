@@ -51,8 +51,13 @@ Why AI matters
 * Generative AI could lead to "significant disruption" in the labor market and expose 300 million full-time jobs across the globe — many of them white-collar roles — to automation.
 — *[Goldman Sachs, March 2023 report](https://www.businessinsider.com/generative-ai-chatpgt-300-million-full-time-jobs-goldman-sachs-2023-3)*
 
+---
+
 * 22% of US workers were worried their jobs would become obsolete due to technology.
 — *[Gallup, August 2023 survey](https://www.businessinsider.com/us-workers-worry-tech-ai-may-replace-jobs-gallup-poll-2023-9)*
+
+* 10% of US workers are in jobs more exposed to artificial intelligence.
+— *[White House, March 2024 "2024 Economic Report of the President" report](https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/)*
 
 ---
 
